@@ -1,0 +1,84 @@
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Business Logic pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Business Logic pt2 2017\Business Logic pt2 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\matthewc\Downloads\Presentation pt1 2017\Presentation pt1 2017\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5526\Downloads\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5526\Downloads\EnterpriseAsspt2\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5526\Documents\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5526\Downloads\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\mayle\Downloads\5526_EnterpriseMAY25_3\5526_EnterpriseMAY11_3\5526_EnterpriseMAY10\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
